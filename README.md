@@ -13,7 +13,7 @@
 
 
 <div  align="center" style="display:inline_block">
-  <img width="40em" height="120em" alt= "FINANCE" src= "https://github.com/GabrieldJesus012/GabrieldJesus012/assets/154984056/b94ffd3a-93da-4863-b91a-c46d57de9da3"/>
+  <img width="60em" height="140em" alt= "FINANCE" src= "https://github.com/GabrieldJesus012/GabrieldJesus012/assets/154984056/b94ffd3a-93da-4863-b91a-c46d57de9da3"/>
 </div>
 
 <h2 align="center" >⚒️ Tecnologias que uso no meu dia 🖥️ ⚒️</h2>
