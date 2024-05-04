@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Gabriel!;"/>
 </h1>
 
-<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<h2 align="center" >⚒️ Entre em contato comigo </h2>
 <div align="center">
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-de-jesus12/)
